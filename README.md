@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zhiyong Bao
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb107&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb107)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bb107/bb107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
